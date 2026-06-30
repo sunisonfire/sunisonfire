@@ -492,7 +492,7 @@ Keep learning, keep building, keep improving.
 <img src="https://img.shields.io/badge/LinkedIn-D96C9D?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
-<a href="mailto:TU-CORREO">
+<a href="mailto:ykuremysun@gmail.com">
 <img src="https://img.shields.io/badge/Email-8B3A62?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
